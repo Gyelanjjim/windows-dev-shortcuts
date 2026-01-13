@@ -1,0 +1,5 @@
+CODE_BASE=C:\Users\{USER_NAME}\Documents\workspace
+SSH_BASE=C:\Users\{USER_NAME}\Desktop\windows-dev-shortcuts
+MAP_FILE=dir_map.txt
+EDITOR_NAME=CURSOR
+EDITOR_OPEN_COMMAND=cursor
