@@ -1,5 +1,7 @@
 # windows-dev-shortcuts
 
+![](./img/first.png)
+
 Windows 환경에서 자주 사용하는 개발·운영 작업을 **메뉴 기반으로 빠르게 실행**하기 위한
 Batch Script 기반 런처입니다.
 
